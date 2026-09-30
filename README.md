@@ -1,6 +1,6 @@
 # Viral-meme-gengbaike ·「梗百科 / MemeClaw」网络梗智能检索与分析系统
 
-> 一句话简介：基于 LangGraph+FastAPI 的网络梗 Agent 系统——梗百科/视频猎人/文化人类学家/梗情报局四 Agent，9 种 LLM + 7 种搜索引擎多接口自动故障转移。
+> 一句话简介：LangGraph+FastAPI 网络梗 Agent，多 LLM 多搜索故障转移
 
 ## 一、项目概述与定位
 
